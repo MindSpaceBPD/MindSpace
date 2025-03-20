@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #E8CEC3;
+    color: #05060B;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #5B5897;
+    color: #E8CEC3;
+    text-align: center;
+    padding: 20px 0;
+}
+
+nav a {
+    color: #E8CEC3;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+#hero, #chat, #blog, #resources {
+    padding: 40px 20px;
+    background-color: #606291;
+    color: #E8CEC3;
+    text-align: center;
+    margin: 20px 0;
+}
+
+footer {
+    background-color: #868C9F;
+    color: #E8CEC3;
+    text-align: center;
+    padding: 10px 0;
+}
